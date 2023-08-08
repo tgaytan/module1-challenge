@@ -50,11 +50,7 @@ a {
     text-decoration: none;
 }
 
-/* text that is inside the sections */
-
-p {
-    font-size: 16px;
-}
+/* giant picture */
 
 .hero {
     height: 800px;
@@ -65,7 +61,11 @@ p {
     background-position: center;
 }
 
-/* image placement inside content class */
+/* middle section */
+
+p {
+    font-size: 16px;
+}
 
 .content img {
     max-height: 200px;
@@ -87,14 +87,12 @@ p {
     margin-left: 20px;
 }
 
-/* headers inside the 3 sections */
+
 
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* search engine optimization */
 
 .content-section {
     margin-bottom: 20px;
