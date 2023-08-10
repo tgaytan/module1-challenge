@@ -43,7 +43,7 @@ body {
     margin-left: 25px;
 }
 
-/* links in header */
+/* navigation bar */
 
 a {
     color: #ffffff;
@@ -61,7 +61,7 @@ a {
     background-position: center;
 }
 
-/* middle section */
+/* middle section with 3 parts */
 
 p {
     font-size: 16px;
@@ -101,7 +101,7 @@ h2 {
     color: #ffffff;
 }
 
-/* section that is on the side */
+/* right hand side section */
 
 .benefits {
     margin-right: 20px;
