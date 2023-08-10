@@ -125,7 +125,7 @@ h3 {
     text-align: center;
 }
 
-.benefit-section {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
